@@ -4,3 +4,5 @@
 2. Desktop
 3. Monitor
 4. Keyboard
+5.Mouse
+6.Printer
